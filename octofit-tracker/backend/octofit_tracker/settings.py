@@ -1,5 +1,6 @@
-# Codespace name for dynamic URL configuration
 CODESPACE_NAME = 'shiny-space-succotash-x544v5wj6jp5h9qv9'
+CODESPACE_API_BASE_URL = f'https://{CODESPACE_NAME}-8000.app.github.dev/'
+
 """
 Django settings for octofit_tracker project.
 
